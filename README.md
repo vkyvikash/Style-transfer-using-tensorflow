@@ -7,4 +7,4 @@ Code is in jupyter notebook (Art.ipynb)
 # +
 ![Alt text](style2.jpg?raw=true "Art")
 # =
-![Alt text](output.jpg?raw=true "Art")
+![Alt text](Output.jpg?raw=true "Art")
